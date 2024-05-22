@@ -4,6 +4,7 @@ This project arises from the need to transform aesthetically and functionally pr
 
 I chose to redesign the website of **il cervellone** ([www.ilcervellone.it](http://www.ilcervellone.it/)), a site with enormous potential but in need of a design update.
 
+
 ## Features
 
 - Responsive
@@ -11,5 +12,6 @@ I chose to redesign the website of **il cervellone** ([www.ilcervellone.it](http
 - Form
 
 
-## Skills
-HTML, CSS, SASS, Javascript
+## Tech Stack
+
+**Client:** HTML, CSS, SASS, JavascriptS
